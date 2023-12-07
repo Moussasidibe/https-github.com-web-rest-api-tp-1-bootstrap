@@ -43,4 +43,4 @@ Welcome to the GameList Manager repository! This project utilizes Bootstrap 5 fo
 
 - Bootstrap for providing an excellent front-end framework.
 - JavaScript community for the dynamic scripting capabilities.
-- ENSEA students generation 2021 - TP 3
+- ENSEA students generation 2021 - TP 1
